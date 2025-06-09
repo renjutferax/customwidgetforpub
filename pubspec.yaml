@@ -1,7 +1,8 @@
 name: my_custom_widgets
 description: "A new Flutter package project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/renjutferax/customwidgetforpub.git
+repository: https://github.com/renjutferax/customwidgetforpub.git
 
 environment:
   sdk: ^3.7.2
